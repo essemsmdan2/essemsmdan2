@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Daniel Araújo</h1>
-<h2 align="center">A MOBILE DEV WHO KEEPS MOVING FOWARD</h2>
+<h2 align="center">A Mobile Programmer who keeps moving foward</h2>
 <!--
 **essemsmdan2/essemsmdan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
